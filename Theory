@@ -1,0 +1,4 @@
+Assumption-the column should be normally distributed.
+Any value outside the boundary of the bell curve is outlier.
+find the range by solving mean and s.d.
+we find the transformed value of each data point.
